@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CARLOS VILAR. ARQUITECTO SENSIBLE]]></title>
+        <description><![CDATA[CARLOS VILAR. ARQUITECTO SENSIBLE]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 19 May 2016 19:10:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Esta estantería está muy bien no crees?]]></title>
+            <description><![CDATA[<article><h1>Esta estantería está muy bien no crees?</h1><h2>Hacemos piezas efímeras para nuestros clientes.</h2><p>Estantería WOVEN. 20/05/2016</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/651bbc7d-44d5-4ec1-9694-109e97433998.jpg"></article>]]></description>
+            <link>undefinedesta-estanteria-esta-muy-bien-no-crees/index.html</link>
+            <guid isPermaLink="false">6c522e37-c8ca-4770-bae8-38c23987f9b3</guid>
+            <pubDate>Thu, 19 May 2016 19:10:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
