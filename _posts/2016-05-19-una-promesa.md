@@ -5,18 +5,21 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'Siempre me han fascinado los artistas en los que se percibe el compromiso con la transmisión de un mensaje o ideal concreto. A menudo sus obras trascienden lo puramente decorativo buscando ir más allá del momento del disfrute estético por parte del espectador de la obra. El verdadero artista construye al sujeto de su Obra, le hace partícipe de la misma, para que sea él mismo quien la someta a juicio y la traduzca en experiencia propia. La obra de arte entendida como síntesis de grado cero que da lugar a una interpretación individualizada no efímera, que perdura.'
-datePublished: '2016-05-19T19:24:27.223Z'
-dateModified: '2016-05-19T19:24:20.700Z'
+datePublished: '2016-05-19T19:27:35.728Z'
+dateModified: '2016-05-19T19:27:27.972Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-19-una-promesa.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-19-una-promesa.md
+starred: true
 url: una-promesa/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac9f71d7-bd3e-40d6-bc8c-7d538deb4aa3.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/640fd8b7-85de-47dc-8301-8e6a13514a6c.jpg)
+
 Siempre me han fascinado los artistas en los que se percibe el compromiso con la transmisión de un mensaje o ideal concreto. A menudo sus obras trascienden lo puramente decorativo buscando ir más allá del momento del disfrute estético por parte del espectador de la obra. El verdadero artista construye al sujeto de su **Obra**, le hace partícipe de la misma, para que sea él mismo quien la someta a juicio y la traduzca en experiencia propia. La obra de arte entendida como **síntesis de grado cero **que da lugar a una interpretación individualizada no efímera, que perdura.
 
 A menudo, estos artistas recurren a la **minimización **del lenguaje a través del cual se produce la pieza, reduciendo al máximo lo superfluo y renunciando a la representación del mundo tal y como lo miramos -- existen diferencias entre el **ver **y el **mirar**-. El motivo de la existencia de este tipo de arte se debe a la necesidad del artista de encontrar una materia inicial o primigenia, sensorial y comunicativa, que es generadora de una experiencia "real" . Estos artistas por tanto **no interpretan **la realidad existente...Buscan desnudarla y desvelarla, mostrarla como si antes hubiera estado ausente. Reaccionan por tanto frente a la proliferación de lo superfluo en la comunicación, nos enseñan lo que significa el gozo estético. Por ello se reducen los elementos del lenguaje. Para llegar de manera certera a comunicar una verdad esencial.
