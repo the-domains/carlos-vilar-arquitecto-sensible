@@ -1,0 +1,28 @@
+name: CARLOS VILAR. ARQUITECTO SENSIBLE
+favicon: null
+layout_spectrum: 0.7564258144702762
+typography_spectrum: 0.48754587722942233
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.43836422683671117
+  lightness: 0.6656275459099561
+  saturation: 0.22929674526676536
+  rhythmicContrast: 0.35076602222397923
+purpose: []
